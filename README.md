@@ -1,6 +1,13 @@
 # Assignment
+Q1
 
-Command to run : python Assignment_zen3.py
+check notebook for question1 solution on example data.
 
-check output on enample data : datafile_example.json
+
+Command to run for datafile.json : python Assignment_zen3.py 
+
+Q2
+
+check 
+
 
