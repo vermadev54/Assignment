@@ -12,6 +12,6 @@ check image for solution : Q2_solution_zen3.jpeg
 
 #Q3
 
-check pdf for Q3 solution :
+check pdf for Q3 solution : Q3_solution.pdf
 
 
